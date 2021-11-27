@@ -2,6 +2,7 @@
 # John W. Miller
 # See LICENSE for details
 
+
 """API documentation: https://docs.genius.com/"""
 
 import json
